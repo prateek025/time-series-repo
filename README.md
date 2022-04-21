@@ -1,4 +1,4 @@
-# Time Series Forecasting
+# Time Series Forecasting Repository
 
 ## I. Repository Overview
 - This repository contains notebooks covering different Machine Learning techniques ranging from statistics models such as ETS to deep learning models such as RNN to make forecasts on time series data. Some notebooks cover forecasting on univariate time series data, while others forecasting on multivariate time series data.
