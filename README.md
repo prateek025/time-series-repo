@@ -1,9 +1,9 @@
 # Time Series Forecasting Repository
 
 ## I. Repository Overview
-- This repository contains notebooks covering different Machine Learning techniques ranging from statistics models such as ETS to deep learning models such as RNN to make forecasts on time series data. Some notebooks cover forecasting on univariate time series data, while others forecasting on multivariate time series data.
+- This repository contains notebooks covering different Machine Learning techniques ranging from statistics models such as *ETS* to deep learning models such as *RNN* to make forecasts on time series data. Some notebooks cover forecasting on univariate time series data, while others forecasting on multivariate time series data.
 - Currently 4 notebooks are available in this repository:
-  1. `nlp_classfication_lstm.ipynb`
+  1. `time_series_ets_tbats.ipynb`
   2. `time-series-rnn.ipynb`
   3. ``
 
