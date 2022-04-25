@@ -17,7 +17,7 @@
    - **Time Series Forecasting using ARIMA models** : This tutorial covers developing multiple **Autoregressive Integrated Moving Average**:`ARIMA` models to predict forecasts for a time series data.
    - Monthly anti-diabetic drug sales : [a10](https://rdrr.io/cran/fpp/man/a10.html) dataset from the `fpp` package in R language has been taken for model development.
 
-3. **`time-series-rnn.ipynb`**
+3. **`time_series_rnn.ipynb`**
    - **Time Series Forecasting using Recurrent Neural Network** : This tutorial covers developing RNN models to predict forecasts for a time series data. All model development has been done under `Tensorflow` framework.
    - Monthly anti-diabetic drug sales : [a10](https://rdrr.io/cran/fpp/man/a10.html) dataset from the `fpp` package in R language has been taken for model development.
    - Different combinations of architecture (single vs multiple layers of `SimpleRNN`) and parameters(`Adam` vs `SGD` optimizer) were tried to build multiple RNN models.
